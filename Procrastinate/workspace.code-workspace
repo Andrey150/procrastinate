@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\pizza"
+		},
+		{
+			"path": "..\\pikadu"
+		},
+		{
+			"path": "..\\pizzawood"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pizza"
+	}
+}
